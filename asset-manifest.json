@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.29310a0f.css",
-    "main.js": "/static/js/main.42c40e28.js",
-    "static/media/Assassin.png": "/static/media/Assassin.15c7d1f9134819dbe081.png",
-    "static/media/Contessa.png": "/static/media/Contessa.ab5bbafd3d1e3ad83418.png",
-    "static/media/Duke.png": "/static/media/Duke.27ecb9d0c7ccb9bf594b.png",
-    "static/media/Captain.png": "/static/media/Captain.129d5cf3c509849d55fa.png",
-    "index.html": "/index.html",
-    "main.29310a0f.css.map": "/static/css/main.29310a0f.css.map",
-    "main.42c40e28.js.map": "/static/js/main.42c40e28.js.map"
+    "main.css": "./static/css/main.29310a0f.css",
+    "main.js": "./static/js/main.42c40e28.js",
+    "static/media/Assassin.png": "./static/media/Assassin.15c7d1f9134819dbe081.png",
+    "static/media/Contessa.png": "./static/media/Contessa.ab5bbafd3d1e3ad83418.png",
+    "static/media/Duke.png": "./static/media/Duke.27ecb9d0c7ccb9bf594b.png",
+    "static/media/Captain.png": "./static/media/Captain.129d5cf3c509849d55fa.png",
+    "index.html": "./index.html",
+    "main.29310a0f.css.map": "./static/css/main.29310a0f.css.map",
+    "main.42c40e28.js.map": "./static/js/main.42c40e28.js.map"
   },
   "entrypoints": [
     "static/css/main.29310a0f.css",
